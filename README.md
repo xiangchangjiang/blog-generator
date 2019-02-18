@@ -1,1 +1,2 @@
 # blot-generate
+# blog-generate
